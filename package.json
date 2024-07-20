@@ -1,0 +1,16 @@
+{
+  "name": "online-voting-system-main",
+  "version": "1.0.0",
+  "description": "This repository contains the source code for an Online Voting System developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). The system allows users to participate in various types of online voting, such as elections, polls, surveys, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-browserify": "^3.12.0",
+    "dotenv": "^16.4.5",
+    "os-browserify": "^0.3.0"
+  }
+}
